@@ -1,12 +1,4 @@
-![image](https://github.com/user-attachments/assets/fcb1d4d7-58c0-445e-94e4-5ce918d6de1b)
-
-This is a small mod for CrazyCattle3D, which adds one level, jumping ability and some reskins.
-
-![image](https://github.com/user-attachments/assets/1271d33c-3904-4383-8d8e-8e446d08bc4f)
-
-![image](https://github.com/user-attachments/assets/81f98dfe-4ded-4b6e-b356-0874169e4a04)
-
-🐄 CrazyCattle3D: Jump & Reskin Mod
+🐄 CrazyStalker3D: Jump & Reskin Mod for CrazyCattle3D
 A modest fan-made enhancement for CrazyCattle3D, introducing a new level, a jump mechanic, and several aesthetic updates through reskins. Created with appreciation for the original game's quirky charm.
 
 ✨ Features
@@ -35,6 +27,6 @@ If any creator wishes to have their content removed or credited, I will comply r
 This mod exists out of admiration for CrazyCattle3D. If you enjoy this mod, please consider supporting the original developer by visiting and sharing their work:
 
 🔗 Play the original game on Itch.io
-
+https://4nn4t4t.itch.io/crazycattle3d
 
 
