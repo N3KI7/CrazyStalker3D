@@ -5,3 +5,5 @@ I do not claim ownership of these assets, and all rights remain with their origi
 If any asset owner wishes to have their content removed or properly credited, I will promptly comply with such a request.
 
 This mod is intended for non-commercial, educational, and fan-based purposes only.
+
+Link to the original game: https://4nn4t4t.itch.io/crazycattle3d
